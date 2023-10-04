@@ -50,7 +50,7 @@ API Specifications form an essential foundation to the API ecosystem, securing s
 
 When writing your proposal **we encourage you to not use ChatGPT** or other AI tools. If you do so, we ask you to disclose the usage in your proposal. It doesn't automatically disqualify you, but we will take that usage into account when evaluating your application.
 
-## Contact
+## Contact US 
 
 If you have any questions or queries, please [create an issue](https://github.com/postman-open-technologies/gsoc-2023/issues/new) on this repo (with a prefix GSoC 2023), start a topic on [our community forums in the GSoC category](https://community.postman.com/c/open-technology/gsoc/42) or send an email to us at gsoc@postman.com.
 
